@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I’m currently working on: <a href="https://www.cvccorp.com.br/" target="_blank"> CVC CORP </a>
+I'm 
+
+🛫 I’m currently working on: [CVC CORP] (https://cvccorp.com.br);
+⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+       
 
 <!--
 **kimkokubun/kimkokubun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
