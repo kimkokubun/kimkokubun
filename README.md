@@ -2,7 +2,7 @@
 
 
 ### 🏢 Current Job
-- 🛫 I’m currently working on: [CVC CORP](https://cvccorp.com.br)
+- 🛫 I’m currently working on: [B3: A Bolsa do Brasil](https://www.b3.com.br/pt_br/para-voce)
 - 🌱 I’m currently learning and improving: GO
 ### 🧰 Utility Belt
 
